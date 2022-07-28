@@ -1,0 +1,9 @@
+body {
+  background-color: #e3f2fd;
+}
+
+.carousel .slide {
+  width: 90%;
+  height: 90%;
+  margin: 30px 0;
+}
